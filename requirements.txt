@@ -1,6 +1,6 @@
 streamlit==1.30.0
 transformers==4.40.0
-torch==2.2.0
+torch==2.8.0
 fer==22.4.0
 opencv-python-headless==4.8.0.74
 pillow
