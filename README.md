@@ -14,11 +14,12 @@ Runs 100% locally : your data never leaves your computer.
 
 ---
 
-## 🚀 Demo Preview
+### 🎥 Demo
 
-![Demo Screenshot](https://via.placeholder.com/800x400?text=AI+Habit+Coach+App+Preview)
+[▶️ Watch the demo on Google Drive](https://drive.google.com/file/d/1VJDFeJrJpBa2zhlUiWUdB2Kb-4ZYRmYJ/view?usp=drive_link)
 
-> _"Reflect, analyze, and grow — one day at a time."_
+
+> _"Reflect, analyze, and grow "_
 
 ---
 
